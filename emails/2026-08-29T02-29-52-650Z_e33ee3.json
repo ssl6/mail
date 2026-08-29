@@ -1,0 +1,7 @@
+{
+  "algorithm": "AES-256-GCM",
+  "iterations": 100000,
+  "salt": "DnMwBxSwd12DgeRWkFUQvA==",
+  "iv": "wlcn96IacfKVyzTZ",
+  "ciphertext": "kcx7Bv6D2AQNXU5IygcQyCnszQdfF9pOmuvM/ALl6Yy+eg/PO42hDFuGP+5pWrt0HxD3nkI2zEmrw7GXn3q+WwLyXqJYb7nWZxTMklQO6LUMDDDPcmEiubg8A+Lk88anbQMiTm1a5BjTVaNzjMvBwtjwoTzVUOh2dOJXXEEAKcWEuQbymweH1BQMYl4A7iZK9uzgdwlfZPhD0q+zg2XTyto87qeIj4IayqDwh/mLyC4VrateQftDnmPhzLXPjgqNRhdozpfD+/9C7WCIv4vfWPELibeU"
+}
